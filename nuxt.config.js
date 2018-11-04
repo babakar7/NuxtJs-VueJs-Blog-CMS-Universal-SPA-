@@ -68,6 +68,13 @@ module.exports = {
     },
 
 
+    generate:{
+
+      routes:function(){
+      }
+    }
+
+
   }
 
 
